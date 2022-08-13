@@ -1,0 +1,157 @@
+<div class="homepage screen">
+  <div class="overlap-group1">
+    <div class="flex-row">
+      <div class="flex-col">
+        <h1 class="name">Bonnie Gregory</h1>
+        <div class="architecture darkergrotesque-extra-bold-smalt-blue-36px-2">
+          ARCHITECTURE
+        </div>
+        <div class="experiential darkergrotesque-extra-bold-smalt-blue-36px-2">
+          EXPERIENTIAL
+        </div>
+        <div class="uxui darkergrotesque-extra-bold-smalt-blue-36px-2">
+          UX/UI
+        </div>
+      </div>
+      <div class="flex-col-1">
+        <div class="flex-row-1">
+          <a href="#about"
+            ><div class="about darkergrotesque-black-black-20px">About</div></a
+          ><a href="#work"
+            ><div class="work darkergrotesque-black-black-20px">Work</div></a
+          >
+          <div class="place darkergrotesque-black-black-20px">Contact</div>
+        </div>
+        <div class="overlap-group5">
+          <img
+            class="e30-a5991-hdr-2"
+            src="https://anima-uploads.s3.amazonaws.com/projects/62f4561927ede0977a7b5a8e/releases/62f46a1e10bb8159f459c656/img/e30a5991-hdr-2@1x.png"
+          />
+        </div>
+      </div>
+    </div>
+    <img
+      class="line-1"
+      src="https://anima-uploads.s3.amazonaws.com/projects/62f4561927ede0977a7b5a8e/releases/62f46a1e10bb8159f459c656/img/line-1@1x.svg"
+    />
+  </div>
+  <div class="flex-row-2">
+    <div class="flex-col-2">
+      <div class="about-1 darkergrotesque-black-black-36px" id="about">
+        About
+      </div>
+      <div class="i-am-a-multidiscipli">
+        &nbsp;&nbsp;&nbsp;&nbsp;I am a multidisciplinary Designer that creates
+        enchanting digital and physical experiences. My main focus is on XD but
+        I also have great UX/UI skills and I'm fascinated by accessibility.
+        <br /><br />&nbsp;&nbsp; My work can be seen at Denver International
+        Airport, The Museum of Contemporary Art Denver, and the Department of
+        Architecture at The University of Colorado to name a few.&nbsp;&nbsp;I
+        have had work featured in Modern in Denver Magazine and have had the
+        pleasure of being a panelist for TED Talks.<br /><br />&nbsp;&nbsp; I am
+        continually learning! I just completed a course through the University
+        of Denver on UX/UI and Design Thinking to be better equipped at creating
+        unique experiences for my clients.<br /><br />&nbsp;&nbsp; Currently
+        living in Denver with my lovely rabbit.
+      </div>
+    </div>
+    <img
+      class="x1-bcf63-e4-9-ea5-4-b"
+      src="https://anima-uploads.s3.amazonaws.com/projects/62f4561927ede0977a7b5a8e/releases/62f46a1e10bb8159f459c656/img/1bcf63e4-9ea5-4b40-8d20-d1883a40e9e4-1-105-c-1@2x.png"
+    />
+  </div>
+  <img
+    class="line-2"
+    src="https://anima-uploads.s3.amazonaws.com/projects/62f4561927ede0977a7b5a8e/releases/62f46a1e10bb8159f459c656/img/line-3@1x.svg"
+  />
+  <div class="work-1 darkergrotesque-black-black-36px" id="work">Work</div>
+  <div class="overlap-group6">
+    <div class="overlap-group3">
+      <img
+        class="download-2"
+        src="https://anima-uploads.s3.amazonaws.com/projects/62f4561927ede0977a7b5a8e/releases/62f46a1e10bb8159f459c656/img/download-2@1x.png"
+      />
+      <p class="the-octopus-initiati darkergrotesque-bold-black-16px">
+        The Octopus Initiative<br />Roles: Research | XD | Fabrication
+      </p>
+    </div>
+    <p class="replacing-the-museum darkergrotesque-semi-bold-black-15px">
+      <span class="darkergrotesque-semi-bold-black-15px"
+        >&nbsp;&nbsp;Replacing the museum’s previous Open Shelf Library, I
+        worked with the MCA and Hunter Leggitt Studios to design and fabricate
+        custom art storage display units out of steel and glass for visitors to
+        efficiently and playfully interact with the art collection.
+        <br />&nbsp;&nbsp;Interactive display kiosks allow visitors to quickly
+        access the entire collection and sign up for the lending lottery.<br /><br /></span
+      ><span class="darkergrotesque-bold-black-15px">&nbsp;&nbsp;</span
+      ><span class="span2"
+        >In the first year alone, it is estimated that over 100,000 visitors
+        have interacted with the exhibit.</span
+      >
+    </p>
+  </div>
+  <div class="overlap-group7">
+    <div class="overlap-group4">
+      <img
+        class="e30-a5991-hdr-3"
+        src="https://anima-uploads.s3.amazonaws.com/projects/62f4561927ede0977a7b5a8e/releases/62f46a1e10bb8159f459c656/img/e30a5991-hdr-3@1x.png"
+      />
+      <p class="the-palace-loft-role darkergrotesque-bold-black-16px">
+        The Palace Loft<br />Roles: Research | Puzzle Solving | Fabrication
+      </p>
+    </div>
+    <p class="spanning-the-5th-flo darkergrotesque-semi-bold-black-15px">
+      &nbsp;&nbsp;Spanning the 5th floor of a historic theater, The Palace Loft
+      is a “Place For Friends” for a magnanemous community leader who is
+      passionate about hosting.<br />&nbsp;&nbsp;The kitchen is open with an
+      intentionally shared waterfall table/ countertop to the main living area.
+      It creates the sense that they easily flow right into each other.<br />&nbsp;&nbsp;A
+      curved steel wall with a deep steel doorway is geared more toward private,
+      individual space with an expansive landscaped roof garden and fireplace
+      adjacent to the master suite.
+    </p>
+  </div>
+  <div class="flex-row-3">
+    <p class="sometimes-the-most-e darkergrotesque-semi-bold-black-15px">
+      <span class="darkergrotesque-semi-bold-black-15px"
+        >&nbsp;&nbsp;Sometimes the most enchanting spaces in the world need a
+        little help with their web presence. This Dojo is one of those places.
+        Nestled in a quickly gentrifying neighborhood in Nashville, the
+        volunteer run organization was finding it more difficult to fill their
+        beginner classes. <br />&nbsp;&nbsp;Using interviews with stake holders,
+        new members, and regular people we identified the main cause of the
+        drop-off in enrollment: website navigation. We reorganized the
+        information hierarchy on the site and added a menu to allow visitors to
+        quickly access the classes and sign up. We are currently looking for the
+        best hosting site to bring the changes live. <br /></span
+      ><span class="darkergrotesque-bold-black-15px"></span>
+    </p>
+    <img
+      class="moodboard-for-ux-ui"
+      src="https://anima-uploads.s3.amazonaws.com/projects/62f4561927ede0977a7b5a8e/releases/62f46a1e10bb8159f459c656/img/moodboard-for-ux-ui-casestudy-b-gregory---figma-1@1x.png"
+    />
+  </div>
+  <div class="overlap-group2">
+    <div class="frame-2">
+      <div class="overlap-group">
+        <img
+          class="vector"
+          src="https://anima-uploads.s3.amazonaws.com/projects/62f4561927ede0977a7b5a8e/releases/62f46a1e10bb8159f459c656/img/vector@2x.svg"
+        /><img
+          class="vector-1"
+          src="https://anima-uploads.s3.amazonaws.com/projects/62f4561927ede0977a7b5a8e/releases/62f46a1e10bb8159f459c656/img/vector-1@2x.svg"
+        /><img
+          class="vector-2"
+          src="https://anima-uploads.s3.amazonaws.com/projects/62f4561927ede0977a7b5a8e/releases/62f46a1e10bb8159f459c656/img/vector-2@2x.svg"
+        />
+        <div class="get-in-touch-bonniebonbonboncom">
+          Get In Touch:<br />Bonnie@bonbonbon.com
+        </div>
+      </div>
+    </div>
+    <img
+      class="x55-ec562-a-0286-4-f0"
+      src="https://anima-uploads.s3.amazonaws.com/projects/62f4561927ede0977a7b5a8e/releases/62f46a1e10bb8159f459c656/img/55ec562a-0286-4f07-bd1d-4cd81cd69e2f-1-105-c-2@2x.png"
+    />
+  </div>
+</div>
